@@ -1,9 +1,4 @@
- ###  Boas vindas ao meu perfil! 💙
-
- Meu nome è giseli.
-
- Eu estou estudando na alura
- Estou me desenvolvendo na linguagem javaScript
- Ultilizo esse espaço para minha organizaçao e compartilhamento do meus projetos desenvolvidos 
-
- ### Voce entrar em contato comigo 📫
+olá 
+seja bom vindo ao meu perfil !!
+me chamo guilherme 
+https://br.pinterest.com/pin/woo-hoo-meme-discover-more-interesting-confetti-dance-extremely-happy-memes-httpswwwidlememecomwoo--974044225628778672/
